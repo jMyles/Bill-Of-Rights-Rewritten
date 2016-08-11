@@ -46,7 +46,7 @@ If a government actor wants to search or seize something, he may not do so unles
 
 # 7
 
-In a civil claim over property of significant value, all facts must be determined by a jury, and can later be overturned only by a jury.
+In a civil claim over property worth more than $20, all facts must be determined by a jury, and can later be overturned only by a jury.
 
 # 8
 
