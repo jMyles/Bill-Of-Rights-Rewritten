@@ -14,7 +14,7 @@ The right to own and carry personal arms cannot be infringed.
 
 # 3 
 
-No government may force anyone to have military personnel as guests in her home, nor turn any existing neighborhood into a military base while people still live there.
+No government may force anyone to have military personnel as guests in his home, nor turn any existing neighborhood into a military base while people still live there.
 
 # 4
 
@@ -28,7 +28,7 @@ If a government actor wants to search or seize something, he may not do so unles
 
 * If a complete trial for a crime has been concluded results in an acquittal, the accused may never be charged for the act in question again.
 
-* Nobody can be forced to testify against herself in a criminal proceeding.
+* Nobody can be forced to testify against himself in a criminal proceeding.
 
 * Only by due process of law can any government punish anyone or take anything from anyone.
 
